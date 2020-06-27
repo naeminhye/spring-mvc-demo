@@ -1,3 +1,16 @@
 body {
 	background: #f5f5f5;
 }
+
+.login-panel {
+	padding: 2em;
+	border: 1px solid gray;
+	border-radius: 8px;
+	background-color: white;
+	max-width: 50em;
+	margin: auto;
+}
+
+.checkbox input {
+	margin-right: 0.5em;
+}

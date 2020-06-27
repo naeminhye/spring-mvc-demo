@@ -11,12 +11,13 @@
 	<link href="resources/css/bootstrap.min.css" rel="stylesheet"/>
 	<link href="resources/css/style.css" rel="stylesheet"/>
 	<script src="resources/js/bootstrap.min.js"></script>
+	<script src="resources/js/jquery-3.5.1.min.js"></script>
 </head>
 <body>
 	<br>
 	<div style="text-align:center">
 		<h2>
-			Spring MVC Boilerplate! <a href="welcome">Click to check the HelloWorld controller</a><br>
+			Go to <a href="login">Login</a><br>
 		</h2>
 	</div>
 </body>
